@@ -1,9 +1,8 @@
 @import '~bootstrap/scss/bootstrap.scss';
-@import './vars.scss
-@import '~@fontsource/montserrat/index.css';
-@import '~@fontsource/montserrat/600';
-@import '~@fontsource/montserrat/400';
+@import './vars.scss';
 
 
-body { font-family: "Montserrat", sans-serif; }
+body{
+    background-color: rgb(30, 45, 59);
 
+}
